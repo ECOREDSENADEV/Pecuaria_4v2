@@ -26,22 +26,26 @@
         .tarjeta-avatar
           img(src='@/assets/curso/tema1/img03.svg' alt='AvatarTop')
           .tarjeta.color-primario.p-5
-            p.text-bold Bovina
+            .text-black.p-4
+              p.text-bold Bovina
       .col-md-3
         .tarjeta-avatar
           img(src='@/assets/curso/tema1/img04.svg' alt='AvatarTop')
           .tarjeta.color-primario.p-5
-            p.text-bold Porcina
+            .text-black.p-4
+              p.text-bold Porcina
       .col-md-3
         .tarjeta-avatar
           img(src='@/assets/curso/tema1/img05.svg' alt='AvatarTop')
           .tarjeta.color-primario.p-5
-            p.text-bold Ovina
+            .text-black.p-4
+              p.text-bold Ovina
       .col-md-3
         .tarjeta-avatar
           img(src='@/assets/curso/tema1/img06.svg' alt='AvatarTop')
           .tarjeta.color-primario.p-5
-            p.text-bold Avícola 
+            .text-black.p-4
+              p.text-bold Avícola 
 
 
       
