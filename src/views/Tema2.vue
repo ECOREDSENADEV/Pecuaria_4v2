@@ -9,13 +9,13 @@
       h1 Sistema de producción pecuario
 
     .row.justify-content-center.mb-5
-      .col-sm-5
+      .col-md-5
         .contenedor-imagen.position-bottom-left.color-primario.mb-4.mb-lg-0
         img(src="@/assets/curso/tema2/img01.png")
       .col-md-7
         p De acuerdo con la FAO (Organización de las Naciones Unidas para la Alimentación y la Agricultura) los animales destinados a la producción pecuaria brindan diversos servicios y bienes al ser humano, como los son la leche, la carne, los huevos, las pieles, las plumas, las fibras, tracción y estiércol, entre otras, empero cumplen, además, otras funciones de carácter económico y social en las diferentes comunidades. 
         .row.justify-content-center
-          .col-8.col-lg-3.col-md-4.col-sm-6
+          .col-8.col-lg-3.col-md-3.col-sm-6
             figure
               img(src="@/assets/curso/tema2/img02.png")
           .col-md-9
@@ -38,7 +38,7 @@
         p.mb-0 Estas producciones tienen diferentes fines entre los que se destacan principalmente las ventas regionales o el autoconsumo o producción a mayor escala para proveer los mercados a nivel nacional e internacional. Así, el objeto, el tamaño y el fin de la producción es lo que se denomina sistema productivo, es así como los animales rumiantes como el ganado bovino, caprino y ovino, tiende a depender directamente de la tierra. Por tanto, sus sistemas de producción están determinados en gran medida por la agroecología y el uso de la tierra. Los sistemas de producción de especies monogástricas como los cerdos y los pollos dependen más de la demanda de los consumidores y del nivel de inversión de capital.
 
 
-    #t_2_1.titulo-segundo.color-secundario
+    #t_2_1.titulo-segundo.color-acento-contenido
       h2 2.1  Clases y características
 
     p.mb-5 Existen diferentes tipos de sistemas productivos de acuerdo con la especie pecuaria que se tenga en producción, debido a que está relacionado con los aspectos etológicos, sanitarios, técnicos y de bienestar para cada una de ellas. En Latinoamérica los principales sistemas de producción que se manejan son los extensivos, intensivos y trashumantes:
@@ -70,7 +70,7 @@
           br
           strong No todos los animales se benefician con este tipo de sistema trashumante.
 
-    #t_2_2.titulo-segundo.color-secundario
+    #t_2_2.titulo-segundo.color-acento-contenido
       h2 2.2  Componentes
 
     p.mb-5 Los sistemas productivos cuentan con diferentes componentes de acuerdo con la producción específica y el tipo de producción, estos componentes deben ser como piezas de un engranaje de una maquinaria que necesitan trabajar todos juntos secuencialmente para que todo funcione.
@@ -104,7 +104,7 @@
                 .col.mb-3.mb-sm-0
                   p Para reforzar el tema se recomienda ver el material audiovisual Sistemas de producción animal que se encuentra disponible en el material complementario o a través del siguiente enlace:  
                 .col-sm-auto
-                  a.boton.color-acento-botones.texto.color-negro(href="https://www.youtube.com/watch?v=5VDR_vtHRLQ" target="_blank")
+                  a.boton.color-acento-botones.texto.color-black(href="https://www.youtube.com/watch?v=5VDR_vtHRLQ" target="_blank")
                     span Ver video
                     i.fas.fa-file-download
     
