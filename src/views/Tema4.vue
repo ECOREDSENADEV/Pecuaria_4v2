@@ -12,7 +12,8 @@
       .col-md-6
         p.mb-4 La legislación laboral en Colombia es supervisada por el Ministerio del Trabajo que imparte las normas y ejerce la supervisión de su cumplimiento; en la actualidad las organizaciones están en la obligación de capacitar a los trabajadores de forma periódica en aspectos relacionados con la seguridad y prevención de accidentes laborales. Del mismo modo, los empleados deben cumplir con los lineamientos de prevención de riesgos y su capacitación.
       .col-md-4
-        img(src="@/assets/curso/tema4/img01.png")
+        figure
+          img(src="@/assets/curso/tema4/img01.png")
          
     <br/><br/>
     <br/><br/>

@@ -99,7 +99,7 @@
           .row.justify-content-around.align-items-center
             .col-3.col-sm-2.col-lg-1
               img(src="@/assets/curso/tema2/img11.png")
-            .col
+            .col 
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0
                   p Para reforzar el tema se recomienda ver el material audiovisual Sistemas de producción animal que se encuentra disponible en el material complementario o a través del siguiente enlace:  

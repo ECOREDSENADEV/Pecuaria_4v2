@@ -14,11 +14,11 @@
       .video
         iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
     
-    .row.cajon.color-primario.p-4.mb-5.justify-content-center.align-items-center
+    .row.cajon.color-primario.p-3.mb-5.justify-content-center.align-items-center
       .col-3.col-md-3.col-lg-1.mb-4.mb-lg-0
-        figure.px-2
+        figure.px-3
           img(src="@/assets/curso/tema3/img01.png")
-      .col-12.col-md-9.col-lg-11
+      .col-7.col-md-9.col-lg-11
         p.mb-0 Complementando el contexto se entiende que hay una matriz general de sistemas con jerarquías bien definidas desde la estructura general gubernamental y se evidencia en la siguiente gráfica:
 
     .titulo-sexto.color-acento-contenido
@@ -44,14 +44,14 @@
           .col-3.col-md-3.col-lg-1.mb-4.mb-lg-0
             figure.px-0
               img(src="@/assets/curso/tema3/img01.png")
-          .col-12.col-md-9.col-lg-11p 
+          .col-6.col-md-11.col-lg-11p 
             p Las buenas prácticas ganaderas son actividades recomendadas con el propósito de disminuir riesgos físicos, químicos y biológicos en la producción primaria de alimentos de origen animal, promoviendo la sanidad, el bienestar animal y la protección del medio ambiente, pudiendo aplicarse en toda la extensión de la cadena productiva, desde el eslabón primario hasta el consumidor.
-          .col-12.col-md-9.col-lg-11
+          .col-4.col-md-1.col-lg-11
             .tarjeta.color-primario--claro.p-5
               p.mb-0
-                .row.cajon.color-primario.p-3.mb-5.justify-content-center.align-items-center
+                .row.cajon.color-primario.p-4.mb-5.justify-content-center.align-items-center
                   strong Implementarlas requiere especial atención, pero se refleja en los beneficios que se evidenciarán tanto para el productor primario, como para el consumidor final del producto animal, dichos beneficios son:
-
+    
     .row.justify-content-center
       .col-lg-10
         .row
